@@ -1,5 +1,5 @@
 leftnav:
 - identifier: c16be559-76a0-4226-ab13-5fff6d1b78dd
-  name: The Best Page?
-  pageRef: /pages/this-is-the-best-page-ever
+  name: Ok best page
+  pageRef: /pages/ok-best-page
   weight: 10
